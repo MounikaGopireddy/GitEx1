@@ -1,5 +1,4 @@
 This is first ex file
-
 HEAD
 Here i am editing file1.txt
 1,2,3,4,5
