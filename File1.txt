@@ -1,9 +1,7 @@
 This is first ex file
-<<<<<<< HEAD
 HEAD
 Here i am editing file1.txt
 1,2,3,4,5
 3rd Line
 hotfix
-=======
->>>>>>> parent of 06efaac... File1 edied and commited
+
